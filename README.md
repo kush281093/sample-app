@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+Simple to-do list app with features to add, mark as done, and delete tasks with mock-db
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
